@@ -1,2 +1,2 @@
-hello hello
-my name is hongjun xu.
+hello, world.
+my name is hongjun.
